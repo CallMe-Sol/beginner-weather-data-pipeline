@@ -11,3 +11,19 @@ A clean, production-style **Python batch pipeline** that fetches current weather
 | Python      | ≥ 3.10  |
 | pip         | any     |
 | OpenWeatherMap API Key | Free Tier |
+
+---
+
+## Setup
+
+### 1 - Clone and install dependencies
+
+```bash
+git clone https://github.com/CallMe-Sol beginner-weather-data-pipeline.git
+cd beginner-weather-data-pipeline
+pip install -r requirements.txt
+```
+
+### 2 - Set your API key
+
+Register for a free key at <https://openweathermap.org/api> (Current Weather Data, Free Tier).
