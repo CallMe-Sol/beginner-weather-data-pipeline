@@ -68,4 +68,4 @@ Tests cover:
 
 ## License
 
-MIT License - Free to use, modify, and distribute.S
+MIT License - Free to use, modify, and distribute.
