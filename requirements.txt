@@ -1,0 +1,10 @@
+# Install with: pip install -r requirements.txt
+
+# HTTP Client with Retry Support:
+requests>=2.31.0
+
+# Only when needed if you swap SQLite for PostgreSQL:
+# psycopg2-binary>=2.9.0
+
+# Development / Testing:
+# **No external test runner required, stdlib unittest is used.
